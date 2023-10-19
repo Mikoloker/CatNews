@@ -64,6 +64,8 @@ header a {
 	padding-top: 61px;
 	margin-left: auto;
 	margin-right: auto;
+	padding-bottom: 61px;
+	margin-bottom: 28px;
 }
 .description h3 {
 	width: 60vw;
@@ -78,6 +80,7 @@ header a {
 	padding-top: 58px;
 	margin-left: auto;
 	margin-right: auto;
+	padding-bottom: 58px;
 }
 .linkk h3 {
 	width: 60vw;
@@ -95,6 +98,7 @@ header a {
 	font-family: 'Lora';
 }
 
+
 .inf {
 
 /*height: ;*/
@@ -103,6 +107,6 @@ background: #FFF;
 
 }
 
-/*.footer p{
+.footer p{
 	padding-top: 135px;
-}*/
+}
