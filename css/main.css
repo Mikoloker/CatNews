@@ -48,12 +48,34 @@ header a {
 	width: 1172px;
 	height: 112px;
 }
+
 .btn a {
 	font-size: 72px;
 	color: #0B2806;
 	text-decoration: none;
 	margin: 0 auto;
 }
+
+.btne {
+	display: block; /*показывает элемент как блочный*/
+	text-align: center;
+	margin-top: 49px;
+	margin-left: 91px;
+	margin-top: 0 auto;
+	background: #FFF;
+	width: 1172px;
+	height: 224px;
+
+}
+
+.btne a {
+	font-size: 72px;
+	color: #0B2806;
+	text-decoration: none;
+	margin: 0 auto;
+
+}
+
 .description {
 	display: block;
 	text-align: center;
