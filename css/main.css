@@ -14,43 +14,42 @@ body {
 header a {
 	color: #0B2806;
 	text-decoration: none; /*убираем подчеркивание*/
-	font-size: 18px;
+	font-size: 2vw;
 	margin: 0 auto;
 }
 .nav {
 	/*width: 100vw;*/
-	height: 23px;
-	margin-top: 21px;
-	padding-left: 658px;
-	margin-bottom: 21px;
+	height: 2.5vw;
+	margin-top: 2.1vw;
+	padding-left: 51.4vw;
+	margin-bottom: 2.1vw;
 }
 .hat {
 	background: url('../img/hat.jpg') no-repeat center top / cover;
 	/*width: 100vw;*/ 
-	height: 602px;
+	height: 40vw;
 	margin: 0 auto;
 }
 .hat h1 {
-	font-size: 96px;
+	font-size: 5.4vw;
 	color: #DAFCD2;
 	font-style: normal;
 	font-weight: normal;
-	margin-top: 45px;
-	margin-left: 104px;
+	margin-top: 4.4vw;
+	margin-left: 8.1vw;
 }
 .btn {
 	display: block; /*показывает элемент как блочный*/
 	text-align: center;
-	margin-top: 49px;
-	margin-left: 91px;
-	margin-top: 0 auto;
+	margin: 0 auto;
+	margin-top: 4.8vw;
 	background: #FFF;
-	width: 1172px;
-	height: 112px;
+	width: 91.6vw;
+	height: 6.9vw;
 }
 
 .btn a {
-	font-size: 72px;
+	font-size: 5vw;
 	color: #0B2806;
 	text-decoration: none;
 	margin: 0 auto;
@@ -59,17 +58,15 @@ header a {
 .btne {
 	display: block; /*показывает элемент как блочный*/
 	text-align: center;
-	margin-top: 49px;
-	margin-left: 91px;
-	margin-top: 0 auto;
+	margin: 0 auto;
+	margin-top: 4.8vw;
 	background: #FFF;
-	width: 1172px;
-	height: 224px;
-
+	width: 91.6vw;
+	height: 14vw;
 }
 
 .btne a {
-	font-size: 72px;
+	font-size: 5vw;
 	color: #0B2806;
 	text-decoration: none;
 	margin: 0 auto;
@@ -80,20 +77,20 @@ header a {
 	display: block;
 	text-align: center;
 	background: #FFF; 
-	width: 658px;
+	width: 51.4vw;
 	/*height: 982px;*/
-	margin-top: 59px;
-	margin-left: 91px;
-	padding-top: 58px;
+	margin-top: 5.7vw;
+	margin-left: 7.1vw;
+	padding-top: 5.6vw;
 }
 .description a {
 	text-decoration: none;
-	font-size: 18px;
+	font-size: 1.4vw;
 	color: #0B2806;
 
 }
 .description h3 {
-	font-size: 14px;
+	font-size: 1vw;
 	color: #565656;
 	text-align: right;
 	padding-right: 53px;
@@ -102,18 +99,21 @@ header a {
 .ad {
 	display: block;
 	text-align: center;
-	width: 360px;
-	height: 382px;
-	margin-top: 59px;
-	margin-left: 100px;
+	width: 28.1vw;
+	height: 37.3vw;
+	margin-top: 5.7vw;
+	margin-left: 7.8vw;
 }
 .ad a {
 
 }
+.ad img {
+	width: 25vw;
+}
 .ad h3 {
-	font-size: 18px;
+	font-size: 1.4vw;
 	color: #0B2806;
 }
 .footer p{
-	padding-top: 135px;
+	padding-top: 13.1vw;
 }
