@@ -8,62 +8,67 @@ body {
 
 .container {
 	margin: 0 auto; 
+	display: flex;
 }
 header a {
 	color: #0B2806;
 	text-decoration: none; /*убираем подчеркивание*/
-	font-size: 18px;
+	font-size: 2vw;
 	margin: 0 auto;
 }
 .nav {
 	/*width: 100vw;*/
-	padding-top: 21px;
-	/*margin-top: 21px;*/
-	padding-left: 658px;
-	margin-bottom: -21px;
+	margin-top: 2.1vw;
+	/*margin-top: 2vw;*/
+	padding-left: 51.4vw;
+	margin-bottom: 2.1vw;
 }
 .hat {
 	background: url('../img/hat.jpg') no-repeat center top / cover;
 	/*width: 100vw;*/
-	height: 602px;
+	height: 58.7vw;
 	margin: 0 auto;
 }
 .hat h1 {
-	font-size: 96px;
+	font-size: 7.5vw;
 	color: #DAFCD2;
 	font-style: normal;
 	font-weight: normal;
-	margin-top: 45px;
-	margin-left: 104px;
-	padding-top: 45px;
+	margin-top: 4,3vw;
+	margin-left: 8.1vw;
+	padding-top: 4,3vw;
 }
 
 .about {
 	background: #FFF;
-	margin-top: 64px;
-	width: 85vw;
+	margin-top: 6.25vw;
+	width: 75vw;
 	margin-left: auto;
 	margin-right: auto;
-	padding-top: 30px;
-}
+	margin-bottom: 5vw;
+	padding: 3vw;
+	}
 .theme h2 {
 	color: #0B2806;
 	text-align: center;
-	font-size: 36px;
-	padding-left: 35px;
-	padding-right: 35px;
+	font-size: 2,7vw;
+	padding-left: 2,7vw;
+	padding-right: 2,7vw;
 }
 .theme h3 {
 	color: #565656;
 	text-align: right;
-	padding-right: 35px;
-	font-size: 24px;
+	padding-right: 2,7vw;
+	font-size: 1.8vw;
 }
 .description h3 {
 	color: #0B2806;
-	font-size: 24px;
-	padding-left: 35px;
-	padding-right: 35px;
+	font-size: 1.8vw;
+	padding-left: 2,7vw;
+	padding-right: 2,7vw;
+}
+.photo img {
+	width: 50vw;
 }
 
 .photo {

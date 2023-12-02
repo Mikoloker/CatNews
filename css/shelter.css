@@ -8,93 +8,99 @@ body {
 .container {
 	margin: 0 auto;
 }
+
+.containerheader {
+	display: flex;	
+	margin: 0 auto;
+ }
+
 header a {
 	color: #0B2806;
 	text-decoration: none;/*убираем подчеркивание*/
-	font-size: 18px;
+	font-size: 2vw;
 	margin: 0 auto;
 }
 .nav {
 	/*width: 100vw;*/
-	padding-top: 21px;
-	/*margin-top: 21px;*/
-	padding-left: 658px;
-	margin-bottom: -21px;
+	margin-top: 2.1vw;
+	padding-left: 51.4vw;
+	margin-bottom: 2.1vw;
 }
+
 .hat {
 	background: url('../img/hat.jpg') no-repeat center top / cover;
-	height: 602px;
+	height: 58vw;
 	margin: 0 auto;	
 }
 .hat h1 {
-	font-size: 96px;
+	font-size: 7.5vw;
 	color: #DAFCD2;
 	font-style: normal;
 	font-weight: normal;
-	margin-top: 45px;
-	margin-left: 104px;
-	padding-top: 45px;
+	margin-top: 4.3vw;
+	margin-left: 8vw;
+	padding-top: 4.3vw;
 }
 .btn {
 	display: block;
 	text-align: center;
-	margin-top: 49px;
+	margin-top: 4.8vw;
 	/*margin-left: 236px;*/
 	margin-left: auto;
 	margin-right: auto;
 	/*margin-top: 0 auto;*/
 	background: #FFF;
-	width: 907px;
-	height: 100px;
+	width: 70.8vw;
+	height: 9.7vw;
 }
 .btn h2 {
-	font-size: 36px;
+	font-size: 2.8vw;
 	color: #0B2806;
 	margin: 0 auto; 
-	/*margin-top: 29px;*/
-	padding-top: 29px;
+	/*margin-top: 2.7vw;*/
+	padding-top: 2.7vw;
 }
 .description {
 	display: block;
-	margin-top: 28px;
+	margin-top: 2.7vw;
 	/*margin-left: 91px;*/
 	background: #FFF;
 	width: 67vw;
 	/*height: 345px;*/
-	padding-top: 61px;
+	padding-top: 6vw;
 	margin-left: auto;
 	margin-right: auto;
-	padding-bottom: 61px;
-	margin-bottom: 28px;
+	padding-bottom: 6.1vw;
+	margin-bottom: 2.7vw;
 }
 .description h3 {
 	width: 60vw;
 	margin: 0 auto;
-	font-size: 24px;
+	font-size: 1.8vw;
 	color: #0B2806;
 }
 .linkk {
 	display: block;
 	background: #FFF;
 	width: 67vw;
-	padding-top: 58px;
+	padding-top: 5.6vw;
 	margin-left: auto;
 	margin-right: auto;
-	padding-bottom: 58px;
+	padding-bottom: 5.6vw;
 }
 .linkk h3 {
 	width: 60vw;
 	margin: 0 auto;
-	font-size: 24px;
+	font-size: 1.8vw;
 	color: #0B2806;
 }
 .linkk a {
 	width: 60vw;
 	text-decoration: none;
 	margin: 0 auto;
-	font-size: 24px;
+	font-size: 1.8vw;
 	color: #30961E;
-	padding-left: 49px;
+	padding-left: 4.8vw;
 	font-family: 'Lora';
 }
 
@@ -108,5 +114,5 @@ background: #FFF;
 }
 
 .footer p{
-	padding-top: 135px;
+	padding-top: 13vw;
 }

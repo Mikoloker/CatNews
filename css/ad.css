@@ -10,18 +10,21 @@ body {
 }
 
 .nav {
-	height: 23px;
-	margin-top: 21px;
+	height: 1.7vw;
+	margin-top: 2vw;
 	text-align: center;
-	margin-bottom: 21px;
+	margin-bottom: 2vw;
 }
 header a {
 	color: #0B2806;
 	text-decoration: none; /*убираем подчеркивание*/
-	font-size: 18px;
+	font-size: 1.4vw;
 	margin: 0 auto;
 }
 .error {
-	padding-top: 40px;
+	padding-top: 3,9vw;
 	text-align: center;
+}
+.error img {
+	width: 30vw;
 }
