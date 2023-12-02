@@ -38,6 +38,13 @@ header a {
 	margin-top: 4.4vw;
 	margin-left: 8.1vw;
 }
+
+.btcont{
+	display: flex;
+	width: 80vw;
+	padding: 5vw;
+	margin: 0 auto;
+}
 .btn {
 	display: block; /*показывает элемент как блочный*/
 	text-align: center;
@@ -58,15 +65,16 @@ header a {
 .btne {
 	display: block; /*показывает элемент как блочный*/
 	text-align: center;
-	margin: 0 auto;
-	margin-top: 4.8vw;
 	background: #FFF;
-	width: 91.6vw;
-	height: 14vw;
+	width: 60vw;
+	/*height: 14vw;*/
+	margin: 2vw;
+	padding-top: 2vw;
+	padding-bottom: 2vw;
 }
 
 .btne a {
-	font-size: 5vw;
+	font-size: 3vw;
 	color: #0B2806;
 	text-decoration: none;
 	margin: 0 auto;
